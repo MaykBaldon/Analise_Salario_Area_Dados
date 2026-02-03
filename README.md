@@ -1,2 +1,3 @@
-# An-lise_Sal-rios_-rea_Dados
+# 🎲 Dashboard de Análise de Salários na Área de Dados
+
 Explore os dados salariais na área de dados nos últimos anos.
